@@ -1,30 +1,30 @@
 ---
-location: [ 36.6 , 127.5 ] 
+location:
+  - 36.6
+  - 127.5
 type: geo-Region
 title: North_Chungcheong
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- North_Chungcheong
-
+  - North_Chungcheong
+  - Chungcheongbuk-do
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # North_Chungcheong

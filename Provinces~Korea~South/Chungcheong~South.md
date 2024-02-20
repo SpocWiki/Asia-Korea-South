@@ -1,30 +1,30 @@
 ---
-location: [ 36.5 , 126.8 ] 
+location:
+  - 36.5
+  - 126.8
 type: geo-Region
 title: South_Chungcheong
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- South_Chungcheong
-
+  - South_Chungcheong
+  - Chungcheongnam-do
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
-expiryDate: 
+expiryDate:
 ---
 
 # South_Chungcheong
