@@ -29,10 +29,10 @@ owner_of:
 - "[[/_Standards/WikiData/WD~Jamsil_Station,75330]]"
 - "[[/_Standards/WikiData/WD~Yangjae_Station,100852]]"
 - "[[/_Standards/WikiData/WD~Jonggak_Station,246645]]"
-- "[[/_Standards/WikiData/WD~City_Hall Station,246660]]"
-- "[[/_Standards/WikiData/WD~Seoul_Facilities Corporation,16171281]]"
+- "[[/_Standards/WikiData/WD~City_Hall_Station,246660]]"
+- "[[/_Standards/WikiData/WD~Seoul_Facilities_Corporation,16171281]]"
 - "[[/_Standards/WikiData/WD~Gangnam_Station,17469]]"
-- "[[/_Standards/WikiData/WD~Seoul_Subway Line 9,17503]]"
+- "[[/_Standards/WikiData/WD~Seoul_Subway_Line_9,17503]]"
 replaces: '[[/_Standards/WikiData/WD~Keijō,483984]]'
 twinned_administrative_body:
 - "[[/_Standards/WikiData/WD~Honolulu_County,487704]]"
@@ -59,20 +59,20 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Tehran,3616]]'
 - '[[/_Standards/WikiData/WD~Jakarta,3630]]'
 - '[[/_Standards/WikiData/WD~Ankara,3640]]'
-- "[[/_Standards/WikiData/WD~Rio_de Janeiro,8678]]"
+- "[[/_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
 - '[[/_Standards/WikiData/WD~Bandung,10389]]'
 - '[[/_Standards/WikiData/WD~Guam,16635]]'
 - '[[/_Standards/WikiData/WD~Honolulu,18094]]'
 - '[[/_Standards/WikiData/WD~Tirana,19689]]'
 - '[[/_Standards/WikiData/WD~Ulaanbaatar,23430]]'
 - "[[/_Standards/WikiData/WD~San_Francisco,62]]"
-- "[[/_Standards/WikiData/WD~New_York City,60]]"
+- "[[/_Standards/WikiData/WD~New_York_City,60]]"
 - "[[/_Standards/WikiData/WD~Washington,_D.C.,61]]"
-office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Mayor_of Seoul,488289]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Mayor_of_Seoul,488289]]"
 head_of_government: "[[/_Standards/WikiData/WD~Oh_Se-hoon,494239]]"
 history_of_topic:
-- "[[/_Standards/WikiData/WD~history_of Seoul,494780]]"
-- "[[/_Standards/WikiData/WD~timeline_of Seoul,7805915]]"
+- "[[/_Standards/WikiData/WD~history_of_Seoul,494780]]"
+- "[[/_Standards/WikiData/WD~timeline_of_Seoul,7805915]]"
 located_in_or_next_to_body_of_water:
 - '[[/_Standards/WikiData/WD~Cheonggyecheon,495437]]'
 - '[[/_Standards/WikiData/WD~Yangjaecheon,623786]]'
@@ -81,32 +81,32 @@ located_in_or_next_to_body_of_water:
 - '[[/_Standards/WikiData/WD~Jungnangcheon,6312978]]'
 - "[[/_Standards/WikiData/WD~Han_River,55500]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus_and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~Small_Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-executive_body: "[[/_Standards/WikiData/WD~Seoul_Metropolitan Government,623789]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+executive_body: "[[/_Standards/WikiData/WD~Seoul_Metropolitan_Government,623789]]"
 official_symbol:
 - '[[/_Standards/WikiData/WD~Forsythia,672980]]'
 - "[[/_Standards/WikiData/WD~Eurasian_Magpie,25307]]"
 member_of:
-- "[[/_Standards/WikiData/WD~Creative_Cities Network,1139352]]"
-- "[[/_Standards/WikiData/WD~World_Tourism Cities Federation,67652870]]"
+- "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+- "[[/_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
 has_characteristic: "[[/_Standards/WikiData/WD~primate_city,1422929]]"
 different_from:
 - '[[/_Standards/WikiData/WD~Seoul,3478835]]'
-- "[[/_Standards/WikiData/WD~Showdown_in Seoul,11315077]]"
+- "[[/_Standards/WikiData/WD~Showdown_in_Seoul,11315077]]"
 - '[[/_Standards/WikiData/WD~Seoul,19483878]]'
 - '[[/_Standards/WikiData/WD~Seoul,112118423]]'
-flag: "[[/_Standards/WikiData/WD~flag_of Seoul,12601313]]"
-legislative_body: "[[/_Standards/WikiData/WD~Seoul_municipal council,12601388]]"
+flag: "[[/_Standards/WikiData/WD~flag_of_Seoul,12601313]]"
+legislative_body: "[[/_Standards/WikiData/WD~Seoul_municipal_council,12601388]]"
 present_in_work:
-- "[[/_Standards/WikiData/WD~Avengers__Age of Ultron,14171368]]"
+- "[[/_Standards/WikiData/WD~Avengers__Age_of_Ultron,14171368]]"
 - '[[/_Standards/WikiData/WD~Colossal,21527562]]'
 - "[[/_Standards/WikiData/WD~Civilization_V,2385]]"
 - "[[/_Standards/WikiData/WD~Cloud_Atlas,28936]]"
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Seoul,19576312]]'
-open_data_portal: "[[/_Standards/WikiData/WD~Public_data for all Seoul citizens,97100933]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy_of Seoul,106020442]]"
+open_data_portal: "[[/_Standards/WikiData/WD~Public_data_for_all_Seoul_citizens,97100933]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Seoul,106020442]]"
 instance_of: "[[/_Standards/WikiData/WD~national_capital,108178728]]"
 category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q108696415,108696415]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:South+Korea/Seoul.map"
