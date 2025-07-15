@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 37.6
 - 127
@@ -235,12 +235,20 @@ markerFolder: ./Seoul/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seoul) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Seoul|Seoul]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Seoul.public|Seoul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Seoul.internal|Seoul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Seoul.protect|Seoul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Seoul.private|Seoul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Seoul.personal|Seoul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Seoul.secret|Seoul.secret]] 
+
+### #is_/same_as :: [Seoul](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul.md) 
+
+### #is_/same_as :: [Seoul.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul.public.md) 
+
+### #is_/same_as :: [Seoul.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul.internal.md) 
+
+### #is_/same_as :: [Seoul.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul.protect.md) 
+
+### #is_/same_as :: [Seoul.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul.private.md) 
+
+### #is_/same_as :: [Seoul.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul.personal.md) 
+
+### #is_/same_as :: [Seoul.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul.secret.md)
 

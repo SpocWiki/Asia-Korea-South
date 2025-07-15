@@ -40,11 +40,18 @@ markerFolder: ./Incheon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon|Incheon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.public|Incheon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.internal|Incheon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.protect|Incheon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.private|Incheon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.personal|Incheon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Incheon.secret|Incheon.secret]] 
+
+### #is_/same_as :: [Incheon](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.md) 
+
+### #is_/same_as :: [Incheon.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.public.md) 
+
+### #is_/same_as :: [Incheon.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.internal.md) 
+
+### #is_/same_as :: [Incheon.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.protect.md) 
+
+### #is_/same_as :: [Incheon.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.private.md) 
+
+### #is_/same_as :: [Incheon.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.personal.md) 
+
+### #is_/same_as :: [Incheon.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.secret.md)
 

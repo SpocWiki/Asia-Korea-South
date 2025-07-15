@@ -40,11 +40,18 @@ markerFolder: ./Ulsan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Ulsan|Ulsan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Ulsan.public|Ulsan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Ulsan.internal|Ulsan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Ulsan.protect|Ulsan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Ulsan.private|Ulsan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Ulsan.personal|Ulsan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Ulsan.secret|Ulsan.secret]] 
+
+### #is_/same_as :: [Ulsan](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Ulsan.md) 
+
+### #is_/same_as :: [Ulsan.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Ulsan.public.md) 
+
+### #is_/same_as :: [Ulsan.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Ulsan.internal.md) 
+
+### #is_/same_as :: [Ulsan.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Ulsan.protect.md) 
+
+### #is_/same_as :: [Ulsan.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Ulsan.private.md) 
+
+### #is_/same_as :: [Ulsan.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Ulsan.personal.md) 
+
+### #is_/same_as :: [Ulsan.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Ulsan.secret.md)
 

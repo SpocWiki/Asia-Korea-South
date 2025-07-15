@@ -40,11 +40,18 @@ markerFolder: ./Busan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan|Busan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.public|Busan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.internal|Busan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.protect|Busan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.private|Busan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.personal|Busan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Busan.secret|Busan.secret]] 
+
+### #is_/same_as :: [Busan](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Busan.md) 
+
+### #is_/same_as :: [Busan.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Busan.public.md) 
+
+### #is_/same_as :: [Busan.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Busan.internal.md) 
+
+### #is_/same_as :: [Busan.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Busan.protect.md) 
+
+### #is_/same_as :: [Busan.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Busan.private.md) 
+
+### #is_/same_as :: [Busan.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Busan.personal.md) 
+
+### #is_/same_as :: [Busan.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Busan.secret.md)
 

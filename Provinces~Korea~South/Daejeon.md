@@ -40,11 +40,18 @@ markerFolder: ./Daejeon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon|Daejeon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.public|Daejeon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.internal|Daejeon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.protect|Daejeon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.private|Daejeon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.personal|Daejeon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daejeon.secret|Daejeon.secret]] 
+
+### #is_/same_as :: [Daejeon](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daejeon.md) 
+
+### #is_/same_as :: [Daejeon.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daejeon.public.md) 
+
+### #is_/same_as :: [Daejeon.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daejeon.internal.md) 
+
+### #is_/same_as :: [Daejeon.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daejeon.protect.md) 
+
+### #is_/same_as :: [Daejeon.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daejeon.private.md) 
+
+### #is_/same_as :: [Daejeon.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daejeon.personal.md) 
+
+### #is_/same_as :: [Daejeon.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daejeon.secret.md)
 

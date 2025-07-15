@@ -40,11 +40,18 @@ markerFolder: ./North_Jeolla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla|North_Jeolla]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.public|North_Jeolla.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.internal|North_Jeolla.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.protect|North_Jeolla.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.private|North_Jeolla.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.personal|North_Jeolla.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/North_Jeolla.secret|North_Jeolla.secret]] 
+
+### #is_/same_as :: [Jeolla~North](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.md) 
+
+### #is_/same_as :: [Jeolla~North.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.public.md) 
+
+### #is_/same_as :: [Jeolla~North.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.internal.md) 
+
+### #is_/same_as :: [Jeolla~North.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.protect.md) 
+
+### #is_/same_as :: [Jeolla~North.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.private.md) 
+
+### #is_/same_as :: [Jeolla~North.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.personal.md) 
+
+### #is_/same_as :: [Jeolla~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.secret.md)
 

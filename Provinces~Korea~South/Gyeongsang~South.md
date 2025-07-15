@@ -40,11 +40,18 @@ markerFolder: ./South_Gyeongsang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang|South_Gyeongsang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.public|South_Gyeongsang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.internal|South_Gyeongsang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.protect|South_Gyeongsang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.private|South_Gyeongsang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.personal|South_Gyeongsang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Gyeongsang.secret|South_Gyeongsang.secret]] 
+
+### #is_/same_as :: [Gyeongsang~South](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.md) 
+
+### #is_/same_as :: [Gyeongsang~South.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.public.md) 
+
+### #is_/same_as :: [Gyeongsang~South.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.internal.md) 
+
+### #is_/same_as :: [Gyeongsang~South.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.protect.md) 
+
+### #is_/same_as :: [Gyeongsang~South.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.private.md) 
+
+### #is_/same_as :: [Gyeongsang~South.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.personal.md) 
+
+### #is_/same_as :: [Gyeongsang~South.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.secret.md)
 

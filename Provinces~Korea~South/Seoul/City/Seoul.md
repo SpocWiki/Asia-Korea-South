@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/City/Seoul|Seoul]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/City/Seoul.public|Seoul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/City/Seoul.internal|Seoul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/City/Seoul.protect|Seoul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/City/Seoul.private|Seoul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/City/Seoul.personal|Seoul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/City/Seoul.secret|Seoul.secret]] 
+
+### #is_/same_as :: [Seoul](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul/City/Seoul.md) 
+
+### #is_/same_as :: [Seoul.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul/City/Seoul.public.md) 
+
+### #is_/same_as :: [Seoul.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul/City/Seoul.internal.md) 
+
+### #is_/same_as :: [Seoul.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul/City/Seoul.protect.md) 
+
+### #is_/same_as :: [Seoul.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul/City/Seoul.private.md) 
+
+### #is_/same_as :: [Seoul.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul/City/Seoul.personal.md) 
+
+### #is_/same_as :: [Seoul.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Seoul/City/Seoul.secret.md)
+

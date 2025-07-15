@@ -40,11 +40,18 @@ markerFolder: ./Gangwon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon|Gangwon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.public|Gangwon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.internal|Gangwon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.protect|Gangwon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.private|Gangwon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.personal|Gangwon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gangwon.secret|Gangwon.secret]] 
+
+### #is_/same_as :: [Gangwon](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.md) 
+
+### #is_/same_as :: [Gangwon.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.public.md) 
+
+### #is_/same_as :: [Gangwon.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.internal.md) 
+
+### #is_/same_as :: [Gangwon.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.protect.md) 
+
+### #is_/same_as :: [Gangwon.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.private.md) 
+
+### #is_/same_as :: [Gangwon.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.personal.md) 
+
+### #is_/same_as :: [Gangwon.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.secret.md)
 

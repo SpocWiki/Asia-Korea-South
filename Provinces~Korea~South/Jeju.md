@@ -40,11 +40,18 @@ markerFolder: ./Jeju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Jeju|Jeju]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Jeju.public|Jeju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Jeju.internal|Jeju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Jeju.protect|Jeju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Jeju.private|Jeju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Jeju.personal|Jeju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Jeju.secret|Jeju.secret]] 
+
+### #is_/same_as :: [Jeju](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeju.md) 
+
+### #is_/same_as :: [Jeju.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeju.public.md) 
+
+### #is_/same_as :: [Jeju.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeju.internal.md) 
+
+### #is_/same_as :: [Jeju.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeju.protect.md) 
+
+### #is_/same_as :: [Jeju.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeju.private.md) 
+
+### #is_/same_as :: [Jeju.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeju.personal.md) 
+
+### #is_/same_as :: [Jeju.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeju.secret.md)
 

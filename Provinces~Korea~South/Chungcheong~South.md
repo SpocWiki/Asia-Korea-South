@@ -40,11 +40,18 @@ markerFolder: ./South_Chungcheong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong|South_Chungcheong]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.public|South_Chungcheong.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.internal|South_Chungcheong.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.protect|South_Chungcheong.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.private|South_Chungcheong.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.personal|South_Chungcheong.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/South_Chungcheong.secret|South_Chungcheong.secret]] 
+
+### #is_/same_as :: [Chungcheong~South](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~South.md) 
+
+### #is_/same_as :: [Chungcheong~South.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~South.public.md) 
+
+### #is_/same_as :: [Chungcheong~South.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~South.internal.md) 
+
+### #is_/same_as :: [Chungcheong~South.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~South.protect.md) 
+
+### #is_/same_as :: [Chungcheong~South.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~South.private.md) 
+
+### #is_/same_as :: [Chungcheong~South.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~South.personal.md) 
+
+### #is_/same_as :: [Chungcheong~South.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~South.secret.md)
 

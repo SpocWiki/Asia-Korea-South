@@ -40,11 +40,18 @@ markerFolder: ./Gwangju/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju|Gwangju]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.public|Gwangju.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.internal|Gwangju.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.protect|Gwangju.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.private|Gwangju.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.personal|Gwangju.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Gwangju.secret|Gwangju.secret]] 
+
+### #is_/same_as :: [Gwangju](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gwangju.md) 
+
+### #is_/same_as :: [Gwangju.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gwangju.public.md) 
+
+### #is_/same_as :: [Gwangju.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gwangju.internal.md) 
+
+### #is_/same_as :: [Gwangju.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gwangju.protect.md) 
+
+### #is_/same_as :: [Gwangju.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gwangju.private.md) 
+
+### #is_/same_as :: [Gwangju.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gwangju.personal.md) 
+
+### #is_/same_as :: [Gwangju.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gwangju.secret.md)
 

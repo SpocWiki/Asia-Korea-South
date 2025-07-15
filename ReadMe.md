@@ -40,10 +40,4 @@ Capital ::  [[Korea~South/City/Seoul]] ]
 
 
 
-## Confidential Links & Embeds: 
-- [[Korea~South|Korea~South]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South.internal|Korea~South.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South.protect|Korea~South.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South.private|Korea~South.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South.personal|Korea~South.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South.secret|Korea~South.secret]] 
+

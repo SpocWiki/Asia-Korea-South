@@ -40,11 +40,18 @@ markerFolder: ./Daegu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu|Daegu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.public|Daegu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.internal|Daegu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.protect|Daegu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.private|Daegu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.personal|Daegu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Korea~South/Counties/Daegu.secret|Daegu.secret]] 
+
+### #is_/same_as :: [Daegu](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daegu.md) 
+
+### #is_/same_as :: [Daegu.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daegu.public.md) 
+
+### #is_/same_as :: [Daegu.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daegu.internal.md) 
+
+### #is_/same_as :: [Daegu.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daegu.protect.md) 
+
+### #is_/same_as :: [Daegu.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daegu.private.md) 
+
+### #is_/same_as :: [Daegu.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daegu.personal.md) 
+
+### #is_/same_as :: [Daegu.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Daegu.secret.md)
 
