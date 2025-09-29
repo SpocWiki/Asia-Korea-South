@@ -157,7 +157,7 @@ native_label: 부산
 
 # [[Busan]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Busan,16520|WD~Busan,16520]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Busan,16520|WD~Busan,16520]] 
 
 ## #has_/map 
 
