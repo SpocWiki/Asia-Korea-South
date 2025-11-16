@@ -219,11 +219,14 @@ continent: "[[/_Standards/WikiData/WD~Asia,48]]"
 
 ```leaflet
 id: Seoul
-zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+zoomFeatures: false 
+defaultZoom: 9 
 geojsonFolder: ./Seoul/
 markerFolder: ./Seoul/
+coordinates: [[Seoul]] 
+markerFile: [[Seoul]] 
 ```
 
 ## #has_/text_of_/abstract 
