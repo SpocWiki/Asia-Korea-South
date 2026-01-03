@@ -41,17 +41,17 @@ markerFolder: ./South_Gyeongsang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gyeongsang~South](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gyeongsang~South|Gyeongsang~South]] 
 
-### #is_/same_as :: [Gyeongsang~South.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gyeongsang~South.public|Gyeongsang~South.public]] 
 
-### #is_/same_as :: [Gyeongsang~South.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gyeongsang~South.internal|Gyeongsang~South.internal]] 
 
-### #is_/same_as :: [Gyeongsang~South.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gyeongsang~South.protect|Gyeongsang~South.protect]] 
 
-### #is_/same_as :: [Gyeongsang~South.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gyeongsang~South.private|Gyeongsang~South.private]] 
 
-### #is_/same_as :: [Gyeongsang~South.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gyeongsang~South.personal|Gyeongsang~South.personal]] 
 
-### #is_/same_as :: [Gyeongsang~South.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gyeongsang~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gyeongsang~South.secret|Gyeongsang~South.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Sejong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sejong](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Sejong.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Sejong|Sejong]] 
 
-### #is_/same_as :: [Sejong.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Sejong.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Sejong.public|Sejong.public]] 
 
-### #is_/same_as :: [Sejong.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Sejong.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Sejong.internal|Sejong.internal]] 
 
-### #is_/same_as :: [Sejong.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Sejong.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Sejong.protect|Sejong.protect]] 
 
-### #is_/same_as :: [Sejong.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Sejong.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Sejong.private|Sejong.private]] 
 
-### #is_/same_as :: [Sejong.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Sejong.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Sejong.personal|Sejong.personal]] 
 
-### #is_/same_as :: [Sejong.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Sejong.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Sejong.secret|Sejong.secret]] 
 

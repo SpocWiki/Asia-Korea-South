@@ -41,17 +41,17 @@ markerFolder: ./North_Chungcheong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chungcheong~North](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Chungcheong~North|Chungcheong~North]] 
 
-### #is_/same_as :: [Chungcheong~North.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Chungcheong~North.public|Chungcheong~North.public]] 
 
-### #is_/same_as :: [Chungcheong~North.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Chungcheong~North.internal|Chungcheong~North.internal]] 
 
-### #is_/same_as :: [Chungcheong~North.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Chungcheong~North.protect|Chungcheong~North.protect]] 
 
-### #is_/same_as :: [Chungcheong~North.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Chungcheong~North.private|Chungcheong~North.private]] 
 
-### #is_/same_as :: [Chungcheong~North.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Chungcheong~North.personal|Chungcheong~North.personal]] 
 
-### #is_/same_as :: [Chungcheong~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Chungcheong~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Chungcheong~North.secret|Chungcheong~North.secret]] 
 

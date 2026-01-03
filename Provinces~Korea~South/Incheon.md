@@ -40,17 +40,17 @@ markerFolder: ./Incheon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Incheon](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Incheon|Incheon]] 
 
-### #is_/same_as :: [Incheon.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Incheon.public|Incheon.public]] 
 
-### #is_/same_as :: [Incheon.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Incheon.internal|Incheon.internal]] 
 
-### #is_/same_as :: [Incheon.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Incheon.protect|Incheon.protect]] 
 
-### #is_/same_as :: [Incheon.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Incheon.private|Incheon.private]] 
 
-### #is_/same_as :: [Incheon.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Incheon.personal|Incheon.personal]] 
 
-### #is_/same_as :: [Incheon.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Incheon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Incheon.secret|Incheon.secret]] 
 

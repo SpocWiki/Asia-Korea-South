@@ -41,17 +41,17 @@ markerFolder: ./North_Jeolla/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jeolla~North](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Jeolla~North|Jeolla~North]] 
 
-### #is_/same_as :: [Jeolla~North.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Jeolla~North.public|Jeolla~North.public]] 
 
-### #is_/same_as :: [Jeolla~North.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Jeolla~North.internal|Jeolla~North.internal]] 
 
-### #is_/same_as :: [Jeolla~North.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Jeolla~North.protect|Jeolla~North.protect]] 
 
-### #is_/same_as :: [Jeolla~North.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Jeolla~North.private|Jeolla~North.private]] 
 
-### #is_/same_as :: [Jeolla~North.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Jeolla~North.personal|Jeolla~North.personal]] 
 
-### #is_/same_as :: [Jeolla~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Jeolla~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Jeolla~North.secret|Jeolla~North.secret]] 
 

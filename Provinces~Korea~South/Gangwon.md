@@ -40,17 +40,17 @@ markerFolder: ./Gangwon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gangwon](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gangwon|Gangwon]] 
 
-### #is_/same_as :: [Gangwon.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gangwon.public|Gangwon.public]] 
 
-### #is_/same_as :: [Gangwon.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gangwon.internal|Gangwon.internal]] 
 
-### #is_/same_as :: [Gangwon.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gangwon.protect|Gangwon.protect]] 
 
-### #is_/same_as :: [Gangwon.private](/_private/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gangwon.private|Gangwon.private]] 
 
-### #is_/same_as :: [Gangwon.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gangwon.personal|Gangwon.personal]] 
 
-### #is_/same_as :: [Gangwon.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South/Provinces~Korea~South/Gangwon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/Provinces~Korea~South/Gangwon.secret|Gangwon.secret]] 
 
