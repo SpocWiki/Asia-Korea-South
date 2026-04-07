@@ -29,7 +29,7 @@ markerFolder: ./
 [Area-Land::98730] 
 Continent :: [[Asia]]  
 [VehicleCode::ROK] 
-Capital ::  [[Korea~South/City/Seoul]] ] 
+Capital ::  [[Korea~South/City/Seoul|Seoul]] ] 
 ![[Coat_of_arms_of_Korea-south.svg|350]] 
 ![[Anthem-Korea-south.mp3]] 
 ![[Flag_of_Korea-south.svg|350]] 
