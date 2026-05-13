@@ -190,7 +190,7 @@ markerFolder: ./Busan/
 >
 > Busan is a center for international conventions, hosting an APEC summit in 2005. It is also a center for sports tournaments in Korea, having hosted the 2002 Asian Games and FIFA World Cup. It is home to the world's largest department store, the Shinsegae Centum City. Busan was added to the UNESCO Creative Cities Network as a "City of Film" in December 2014.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Busan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Busan) 
 
 
 ## Confidential Links & Embeds: 

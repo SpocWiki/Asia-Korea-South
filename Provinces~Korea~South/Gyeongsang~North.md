@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./North_Gyeongsang/
 markerFolder: ./North_Gyeongsang/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
