@@ -348,12 +348,12 @@ dv_has_name_en: Korea, Rep.
 dv_has_name_de: Südkorea
 dv_Area-Total: 99392
 dv_Area-Land: 98730
-dv_has_place_continent: "[[../../../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: ROK
-dv_Capital: "[[City/Seoul|Seoul]]"
+dv_Capital: "[[Korea~South/City/Seoul|Seoul]]"
 dv_Alcohol-l: 14.8
 dv_Language-Id: 459
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 126.97
 dv_has_place_latitude: 37.55
 dv_is_same_as:
@@ -1102,6 +1102,8 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > South Korea performs well in metrics of education, human development, democratic governance, and innovation. Its citizens enjoy one of the world's longest life expectances and access to some of the fastest Internet connection speeds and densest high-speed railway networks. Since the turn of the 21st century, the country has been renowned for its globally influential pop culture, particularly in music, TV dramas, and cinema, a phenomenon referred to as the Korean Wave. South Korea is a member of the OECD's Development Assistance Committee, the G20, the IPEF, and the Paris Club.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Korea) 
+
+
 
 
 
