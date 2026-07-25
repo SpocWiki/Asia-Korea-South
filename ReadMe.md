@@ -348,12 +348,12 @@ dv_has_name_en: Korea, Rep.
 dv_has_name_de: Südkorea
 dv_Area-Total: 99392
 dv_Area-Land: 98730
-dv_has_place_continent: "[[../../../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: ROK
-dv_Capital: "[[City/Seoul|Seoul]]"
+dv_Capital: "[[Korea~South/City/Seoul|Seoul]]"
 dv_Alcohol-l: 14.8
 dv_Language-Id: 459
-dv_is_a_: "[[../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 126.97
 dv_has_place_latitude: 37.55
 dv_is_same_as:
